@@ -1,20 +1,20 @@
 Git
 
-
+Feature
 
 
 Commit A
 
 
+Feature
+Feature
+Feature
+Feature
+Feature
 
-
-
-
-
-
-
-
-
-
+Feature
+Feature
+Feature
+Feature
 
 
